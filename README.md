@@ -83,7 +83,7 @@ There's a pre-existing jupyter notebook file, you need to make a copy of it befo
 
 The copy must be named `firstname_lastname.ipynb` with firstname being your actual firstname and lastname your actual firstname. If you are named Juan Perez, the file should be named `juan_perez.ipynb`.
 
-The assignment needs to be performed in that copy file, there's an export needed to be performed during the assignment, but other than the copy jupyter notebook and a pdf, **no additional files should be created or added**.
+The assignment needs to be performed in that copy file, there's an export needed to be performed during the assignment, but other than the copy jupyter notebook and a html file, **no additional files should be created or added**.
 
 All the instructions and exercises are in the notebook file, you can open it with Jupyter Notebook and start working on it.
 
